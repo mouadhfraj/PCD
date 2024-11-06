@@ -22,6 +22,7 @@ The **Computer-Aided Diagnosis (CAD) System for Early Breast Cancer Detection** 
 - **Jupyter Notebook**: For developing and testing code in an interactive environment.
  ## Dataset
 The project uses publicly available datasets like:
+
 Mammogram Images Dataset: Collected from various medical sources, such as the Digital Database for Screening Mammography (DDSM).
 Ensure you comply with the data usage policies when using these datasets.
 
